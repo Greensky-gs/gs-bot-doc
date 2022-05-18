@@ -3,7 +3,7 @@ Documentation du [Greensky-bot](https://bit.ly/3tK2gAL)
 
 # Introduction
 Le [Greensky-bot](https://bit.ly/3tK2gAL) est en développement.
-Pour plus d'informations à ce sujet, allez [ici](https://github.com/Greensky-gs/gs-bot-doc/blob/main/README.md#)
+Pour plus d'informations à ce sujet, allez [ici](https://github.com/Greensky-gs/gs-bot-doc/blob/main/README.md#en-développement)
 
 ## Support
 [serveur de support](https://discord.gg/G7QDcNkvPS)
