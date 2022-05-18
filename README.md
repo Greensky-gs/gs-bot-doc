@@ -78,12 +78,14 @@ Il y a **deux** commandes d'aide, détailées ci-dessous :
 Permet d'obtenir des informations sur une commande spécifiée
 
 ![Syntaxe commande](https://media.discordapp.net/attachments/976356791451529236/976460661657829386/unknown.png)
+
 ![commande result](https://media.discordapp.net/attachments/976356791451529236/976460463703457842/unknown.png)
 
 ### Help
 Affiche toutes les commandes disponibles
 
 ![help syntaxe](https://media.discordapp.net/attachments/976356791451529236/976461125443010600/unknown.png)
+    
 ![help result](https://media.discordapp.net/attachments/976356791451529236/976461117951987752/unknown.png)
 
 ## En développement
