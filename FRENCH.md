@@ -35,8 +35,8 @@ Les unités disponibles sont les suivantes :
 `d` pour jours
 `y` pour années
 
-Lorsque vous rentrerez une durée invalide, le [Greensky-bot](https://bit.ly/3tK2gAL) vous renverra cet embed 
 ![invalid time](https://media.discordapp.net/attachments/976356791451529236/976359363360981032/unknown.png)
+Lorsque vous rentrerez une durée invalide, le [Greensky-bot](https://bit.ly/3tK2gAL) vous renverra cet embed 
 
 ## Modération
 Les commandes de modérations sont nombreuses, elles sont répertoriées ci-dessous.
