@@ -2,7 +2,8 @@
 Documentation du [Greensky-bot](https://bit.ly/3tK2gAL)
 
 ## Support
-Le [serveur de support](https://discord.gg/G7QDcNkvPS) est disponible ici.
+Le [serveur de support](https://discord.gg/G7QDcNkvPS) est disponible ici, pour signaler un bug, entre autres.
+[Page top.gg](https://top.gg/bot/810823531947884554)
 
 ## Configuration
 Le préfixe par défaut du bot est `!!`.
@@ -17,7 +18,7 @@ Le bot dispose de **5** commandes giveaways :
 `!!gend`, qui termine un giveaway dans le salon. *Préciser l'identifiant du message du giveaway (cf. image giveaway)*
 `!!glist`, affiche la liste des giveaways en cours dans le serveur
 `!!greroll` : Reroll un giveaway, c'est-à-dire change le gagnant du giveaway. *Préciser l'identifiant du message du giveaway (cf. image giveaway)*
-`!!gstart` : Démarre un giveaway dans le salon actuel en précisant, dans l'ordre, [le temps](https://Greensky-gs/gs-bot-doc/blob/main/FRENCH.md#temps), le nombre de gagnants et la récompense du giveaway
+`!!gstart` : Démarre un giveaway dans le salon actuel en précisant, dans l'ordre, [le temps](https://github.com/Greensky-gs/gs-bot-doc/blob/main/FRENCH.md#temps), le nombre de gagnants et la récompense du giveaway
 
 Image giveaway :
 ![Image giveaway](https://media.discordapp.net/attachments/976356791451529236/976357854657257522/unknown.png)
@@ -42,3 +43,7 @@ Lorsque vous rentrerez une durée invalide, le [Greensky-bot](https://bit.ly/3tK
 Les commandes de modérations sont nombreuses, elles sont répertoriées ci-dessous.
 
 ![commande de modération](https://media.discordapp.net/attachments/976356791451529236/976359875279978496/unknown.png)
+Pour pouvoir effectuer une commande de modération, il faut réunir [les conditions de modération](https://github.com/Greensky-gs/gs-bot-doc/blob/main/FRENCH.md)
+
+## Conditions de modération
+Pour effectuer une commande
