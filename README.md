@@ -6,8 +6,8 @@ Le [Greensky-bot](https://bit.ly/3tK2gAL) est en développement.
 Pour plus d'informations à ce sujet, allez [ici](https://github.com/Greensky-gs/gs-bot-doc/blob/main/README.md#en-développement)
 
 ## Support
-[serveur de support](https://discord.gg/G7QDcNkvPS)
-[Page top.gg](https://top.gg/bot/810823531947884554)
+* [serveur de support](https://discord.gg/G7QDcNkvPS)
+* [Page top.gg](https://top.gg/bot/810823531947884554)
 
 ## Configuration
 Le préfixe par défaut du bot est `!!`.
@@ -85,7 +85,7 @@ Permet d'obtenir des informations sur une commande spécifiée
 Affiche toutes les commandes disponibles
 
 ![help syntaxe](https://media.discordapp.net/attachments/976356791451529236/976461125443010600/unknown.png)
-    
+
 ![help result](https://media.discordapp.net/attachments/976356791451529236/976461117951987752/unknown.png)
 
 ## En développement
