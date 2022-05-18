@@ -77,7 +77,7 @@ Il y a **deux** commandes d'aide, détailées ci-dessous :
 ### Commande
 Permet d'obtenir des informations sur une commande spécifiée
 
-![Syntaxe commande](https://media.discordapp.net/attachments/976356791451529236/976460463703457842/unknown.png)
+![Syntaxe commande](https://media.discordapp.net/attachments/976356791451529236/976460661657829386/unknown.png)
 ![commande result](https://media.discordapp.net/attachments/976356791451529236/976460463703457842/unknown.png)
 
 ### Help
