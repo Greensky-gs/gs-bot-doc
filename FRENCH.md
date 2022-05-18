@@ -28,7 +28,17 @@ Le temps sur le [Greensky-bot](https://bit.ly/3tK2gAL) s'exprime de cette maniè
 Le nombre d'unité, et l'unité.
 
 **Unité disponibles**
-Les unités
+Les unités disponibles sont les suivantes :
+`s` pour secondes
+`m` pour minutes
+`h` pour heures
+`d` pour jours
+`y` pour années
 
-Lorsque vous rentrerez une durée invalide, le [Greensky-bot](https://bit.ly/3tK2gAL) vous renverra cet embed
+Lorsque vous rentrerez une durée invalide, le [Greensky-bot](https://bit.ly/3tK2gAL) vous renverra cet embed 
 ![invalid time](https://media.discordapp.net/attachments/976356791451529236/976359363360981032/unknown.png)
+
+## Modération
+Les commandes de modérations sont nombreuses, elles sont répertoriées ci-dessous.
+
+![commande de modération](https://media.discordapp.net/attachments/976356791451529236/976359875279978496/unknown.png)
