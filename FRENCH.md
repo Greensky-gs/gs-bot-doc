@@ -43,7 +43,10 @@ Lorsque vous rentrerez une durée invalide, le [Greensky-bot](https://bit.ly/3tK
 Les commandes de modérations sont nombreuses, elles sont répertoriées ci-dessous.
 
 ![commande de modération](https://media.discordapp.net/attachments/976356791451529236/976359875279978496/unknown.png)
-Pour pouvoir effectuer une commande de modération, il faut réunir [les conditions de modération](https://github.com/Greensky-gs/gs-bot-doc/blob/main/FRENCH.md)
+Pour pouvoir effectuer une commande de modération, il faut réunir [les conditions de modération](https://github.com/Greensky-gs/gs-bot-doc/blob/main/FRENCH.md#conditions-de-modération).
 
 ## Conditions de modération
-Pour effectuer une commande
+Pour effectuer une commande de modération, il faut remplir plusieurs critères :
+
+1. Le bot a la permission `Administrateur`
+2. 
