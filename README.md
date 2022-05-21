@@ -17,7 +17,10 @@ Le préfixe par défaut du bot est `!!`.
 Vous pouvez configurer le bot via la commande `!!set`
   
 ![Page de configuration](https://media.discordapp.net/attachments/976356791451529236/976356821428240384/unknown.png)
-  
+
+## Documentation commande par commande
+Toutes les commandes sont répertoriées dans cette documentation, [à cette adresse](https://github.com/Greensky-gs/gs-bot-doc/blob/main/commands)
+
 ## Giveaways
 Le bot dispose de **5** commandes giveaways :
 
@@ -93,7 +96,7 @@ Affiche toutes les commandes disponibles
   
 ## En développement
 Le [Greensky-bot](https://bit.ly/3tK2gAL) est toujours en développement
-  
+
 #### Catégories de commandes en développement
 * Rôle à réaction
   

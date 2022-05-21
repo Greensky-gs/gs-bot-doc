@@ -1,6 +1,9 @@
 ## Commande ban
 Banni un utilisateur du serveur pour une raison donnée.
 
+## Catégorie
+[Modération](../categories/moderation.md)
+
 ## Permissions
 `Bannir des membres`
 

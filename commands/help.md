@@ -1,6 +1,9 @@
 ## Commande help
 Affiche la liste des commandes disponibles.
 
+## Catégorie
+[Modération](../categories/aide.md)
+
 ## Permissions
 Aucunes permissions requises.
 

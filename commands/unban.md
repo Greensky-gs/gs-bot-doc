@@ -1,6 +1,9 @@
 ## Commande unban
 Débanni un membre du serveur.
 
+## Catégorie
+[Modération](../categories/moderation.md)
+
 ## Permissions
 `Bannir des membres`
 

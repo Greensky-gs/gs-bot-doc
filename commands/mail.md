@@ -1,6 +1,9 @@
 ## Commande mail
 Consultez votre boite mail
 
+## Catégorie
+[Modération](../categories/mail.md)
+
 ## Permissions
 *Aucune.*
 
