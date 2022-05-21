@@ -5,7 +5,9 @@ Pour les voir, il faut activer le mode développeur de l'API Discord.
 Pour les activer : **Paramètres d'utilisateur → Avancés → Mode développeur**
 
 ![Paramètres d'utilisateur Discord](https://media.discordapp.net/attachments/976356791451529236/977565193494200360/unknown.png)
+
 ![Avancés Discord](https://media.discordapp.net/attachments/976356791451529236/977565287387906118/unknown.png)
+
 ![Mode développeur](https://media.discordapp.net/attachments/976356791451529236/977565287622791208/unknown.png)
 
 ## Sur le Greensky BOT
