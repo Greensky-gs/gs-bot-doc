@@ -2,7 +2,7 @@
 Joue au morpion
 
 ## Catégorie
-[REMPLIR](../categories/REMPLIR.md)
+[Fun](../categories/fun.md)
 
 ## Permissions
 *Aucune permission nécéssaire*
