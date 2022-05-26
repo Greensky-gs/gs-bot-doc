@@ -5,7 +5,7 @@ Posez une question au bot pour qu'il y réponde.
 [Fun](../categories/fun.md)
 
 ## Permissions
-*Aucunes*
+*Aucune*
 
 ## Cooldown
 **5** secondes

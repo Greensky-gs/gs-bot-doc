@@ -11,7 +11,7 @@ Pour les activer : **Paramètres d'utilisateur → Avancés → Mode développeu
 ![Mode développeur](https://media.discordapp.net/attachments/976356791451529236/977565287622791208/unknown.png)
 
 ## Sur le Greensky BOT
-Sur le [Greensky-bot](https://bit.ly/3tK2gAL), les identifiants sont des alternatives aux [mentions](../others/mentions.md). Les identifiants permettent de sélectionner un membre, un salon ou un rôle sans avoir à le mentionner.
+Sur le [Greensky-bot](https://bit.ly/39WtbBC), les identifiants sont des alternatives aux [mentions](../others/mentions.md). Les identifiants permettent de sélectionner un membre, un salon, un message ou un rôle sans avoir à le mentionner.
 
 ![Obtenir identifiant discord](https://media.discordapp.net/attachments/976356791451529236/977566559771951144/unknown.png)
 

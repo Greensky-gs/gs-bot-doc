@@ -17,7 +17,7 @@ Construit un embed avec des [boutons](../others/boutons.md)
 *Aucun argument nécéssaire*
 
 ## En plus
-Le [Greensky-bot](https://bit.ly/3tK2gAL) va vous envoyer **deux** embeds :
+Le [Greensky-bot](https://bit.ly/39WtbBC) va vous envoyer **deux** embeds :
 1. Le menu
 2. Le résultat
 

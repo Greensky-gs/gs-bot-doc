@@ -13,9 +13,9 @@ Lorsqu'un utilisateur clique sur une mention de salon, il sera redirigé dans ce
 
 ## Rôles
 Lorsqu'un rôle est mentionné, tous les utilisateurs possédant ce rôle sont notifiés.
-*Note :* Sur le [Greensky-bot](https://bit.ly/3tK2gAL), les [idenfitiants](./id.md) sont privilégiés comparés aux mentions de rôle, car ils ne notifient pas les utilisarteurs.
+*Note :* Sur le [Greensky-bot](https://bit.ly/39WtbBC), les [idenfitiants](./id.md) sont privilégiés comparés aux mentions de rôle, car ils ne notifient pas les utilisarteurs.
 
 ![mention rôle Discord](https://media.discordapp.net/attachments/976356791451529236/977567921662472242/unknown.png)
 
 ## Sur le Greensky BOT
-Sur le [Greensky-bot](https://bit.ly/3tK2gAL), les identifiants sont privilégiés de manière générale pour leur facilité d'utilisation.
+Sur le [Greensky-bot](https://bit.ly/39WtbBC), les identifiants sont privilégiés de manière générale pour leur facilité d'utilisation.

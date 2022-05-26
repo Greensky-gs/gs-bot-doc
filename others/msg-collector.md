@@ -8,3 +8,6 @@ Pour répondre à un collecteur de message, il vous suffit tout simplement d'env
 
 ## Exemple
 Les collecteurs sont utilisés dans la commande [mail-envoi](../commands/mail-envoi.md), par exemple.
+
+## Remarque
+Dans la pluspart des collecteurs de messages, vous pouvez répondre par `cancel` pour annuler le collecteur.

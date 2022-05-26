@@ -1,5 +1,5 @@
 ## Commande game-number
-Joue au jeu de guess the number sur le [Greensky-bot](https://bit.ly/3tK2gAL)
+Joue au jeu de guess the number sur le [Greensky-bot](https://bit.ly/39WtbBC)
 
 ## Catégorie
 [Fun](../categories/fun.md)

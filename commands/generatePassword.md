@@ -24,4 +24,4 @@ La commande `generatePassword` fonctionne avec un [collecteur de messages](../ot
 4. Si il doit contenir des caractères spéciaux ( [binaire](../others/binaire.md) ).
 
 ## Résultat
-Le [Greensky-bot](https://bit.ly/3tK2gAL) vous enverra un mot de passe aléatoire en privé.
+Le [Greensky-bot](https://bit.ly/39WtbBC) vous enverra un mot de passe aléatoire en privé.

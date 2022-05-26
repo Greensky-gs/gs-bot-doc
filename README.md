@@ -1,11 +1,11 @@
 ﻿# Documentation du Greensky BOT
-Documentation du [Greensky-bot](https://bit.ly/3tK2gAL)
+Documentation du [Greensky-bot](https://bit.ly/39WtbBC)
 
 # Introduction
-Le [Greensky-bot](https://bit.ly/3tK2gAL) est un bot **français** multifonctions, dont le but principal est d'amuser les membres de votre serveur.
+Le [Greensky-bot](https://bit.ly/39WtbBC) est un bot **français** multifonctions, dont le but principal est d'amuser les membres de votre serveur.
 C'est pour cette raison qu'il y a plusieurs easter eggs et références cachées sur le bot.
 
-Le [Greensky-bot](https://bit.ly/3tK2gAL) est en développement.
+Le [Greensky-bot](https://bit.ly/39WtbBC) est en développement.
 Pour plus d'informations à ce sujet, allez [ici](https://github.com/Greensky-gs/gs-bot-doc/blob/main/README.md#en-développement)  
 
 ## Support
@@ -23,7 +23,7 @@ Toutes les commandes sont répertoriées dans cette documentation, [à cette adr
  
   
 ## En développement
-Le [Greensky-bot](https://bit.ly/3tK2gAL) est toujours en développement
+Le [Greensky-bot](https://bit.ly/39WtbBC) est toujours en développement
 
 #### Catégories de commandes en développement
 * Rôle à réaction
