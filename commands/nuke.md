@@ -2,7 +2,7 @@
 Nettoie un salon entier.
 
 ## Catégorie
-[REMPLIR](../categories/REMPLIR.md)
+[Modération](../categories/moderation.md)
 
 ## Permissions
 `Gérer les salons`
